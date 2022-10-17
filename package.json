@@ -1,0 +1,29 @@
+{
+  "name": "palabras-aleatorias-data",
+  "version": "1.0.0",
+  "description": "All data of \"palabras-aleatorias\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexScigalszky/palabras-aleatorias-data.git"
+  },
+  "keywords": [
+    "palabras",
+    "aleatorias",
+    "random",
+    "words",
+    "palabra",
+    "aleatorias",
+    "español",
+    "spanish"
+  ],
+  "author": "alexpablo.90@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexScigalszky/palabras-aleatorias-data/issues"
+  },
+  "homepage": "https://github.com/AlexScigalszky/palabras-aleatorias-data#readme"
+}
