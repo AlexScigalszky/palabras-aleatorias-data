@@ -1,6 +1,6 @@
 {
   "name": "palabras-aleatorias-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "All data of \"palabras-aleatorias\"",
   "main": "index.js",
   "scripts": {
