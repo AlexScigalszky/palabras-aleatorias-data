@@ -4,7 +4,9 @@
   "description": "All data of \"palabras-aleatorias\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish:patch": "npm version patch && npm publish --access public",
+    "publish:pack": "npm pack"
   },
   "repository": {
     "type": "git",
