@@ -5,7 +5,7 @@ const jokes = require('./jokes.json');
 const onomatopeias = require('./onomatopeias.json');
 const types = require('./types.json');
 
-module.exports = {
+export {
     words,
     animals,
     colors,
