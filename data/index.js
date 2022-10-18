@@ -1,9 +1,9 @@
-const dbRouter = require('./db.json');
-const animalsRouter = require('./animals.json');
-const colorsRouter = require('./colors.json');
-const jokesRouter = require('./jokes.json');
-const onomatopeiasRouter = require('./onomatopeias.json');
-const typesRouter = require('./types.json');
+const dbRouter = require('./data/db.json');
+const animalsRouter = require('./data/animals.json');
+const colorsRouter = require('./data/colors.json');
+const jokesRouter = require('./data/jokes.json');
+const onomatopeiasRouter = require('./data/onomatopeias.json');
+const typesRouter = require('./data/types.json');
 
 
 
