@@ -1,0 +1,1 @@
+export const data = {"stats":{"KeyValues":[{"Key":"interjecci\u00F3n","Value":52},{"Key":"pronombre","Value":27},{"Key":"adverbio","Value":137},{"Key":"verbo","Value":4076},{"Key":"art\u00EDculo","Value":3},{"Key":"conjunci\u00F3n","Value":16},{"Key":"sustantivo","Value":3609},{"Key":"preposici\u00F3n","Value":25},{"Key":"adjetivo","Value":1283},{"Key":"total","Value":17396}]}}

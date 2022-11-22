@@ -1,4 +1,4 @@
-{
+export const data = {
     "types": [
         "interjección",
         "pronombre",

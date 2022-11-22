@@ -1,4 +1,4 @@
-{
+export const data = {
   "relations": [
     {
       "word1": "alta",

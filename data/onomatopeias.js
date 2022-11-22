@@ -1,4 +1,4 @@
-{
+export const data = {
     "onomatopeias": [
         {
             "subject": "aceleración de motocicleta",
