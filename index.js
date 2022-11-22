@@ -1,15 +1,15 @@
-const words = require('./db.json');
-const animals = require('./animals.json');
-const colors = require('./colors.json');
-const jokes = require('./jokes.json');
-const onomatopeias = require('./onomatopeias.json');
-const types = require('./types.json');
+const words = require('./db.js');
+// const animals = require('./animals.js');
+// const colors = require('./colors.js');
+// const jokes = require('./jokes.js');
+// const onomatopeias = require('./onomatopeias.js');
+// const types = require('./types.js');
 
 export {
     words,
-    animals,
-    colors,
-    jokes,
-    onomatopeias,
-    types
+    // animals,
+    // colors,
+    // jokes,
+    // onomatopeias,
+    // types
 };
